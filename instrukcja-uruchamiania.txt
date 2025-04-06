@@ -1,0 +1,9 @@
+# sklonuj repo
+git clone https://github.com/ArtekoPL/todo-app.git
+cd todo-app
+
+# zainstaluj zależności
+npm install
+
+# uruchom lokalnie
+npm run dev
